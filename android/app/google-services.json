@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48909885338",
+    "project_id": "gem-nest",
+    "storage_bucket": "gem-nest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48909885338:android:b397a74d29e0ad8304a423",
+        "android_client_info": {
+          "package_name": "com.example.gem_nest_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKbYG-M9HGYlMMVMRt_arQdDEGJ8D1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
